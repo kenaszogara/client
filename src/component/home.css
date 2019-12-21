@@ -1,0 +1,22 @@
+.main_div{
+    width: 540px;
+    height: 300px;
+    margin-top: 15%;
+    display: inline-block;
+    font-family: "Fredoka One";
+    color: white;
+        
+}
+
+h1{
+    font-size: 4rem;
+}
+
+h5{
+    font-size: 2.5rem;
+}
+
+p{
+    font-family: "Montserrat regular";
+    font-size: 18px;
+}
